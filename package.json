@@ -1,0 +1,24 @@
+{
+  "name": "tp02",
+  "version": "1.0.0",
+  "description": "Tp modulos node",
+  "homepage": "https://github.com/JulianHofman09/-Modulos-en-Node#readme",
+  "bugs": {
+    "url": "https://github.com/JulianHofman09/-Modulos-en-Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianHofman09/-Modulos-en-Node.git"
+  },
+  "license": "ISC",
+  "author": "Damian Leibman y Julian Hofman",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.20"
+  }
+}
