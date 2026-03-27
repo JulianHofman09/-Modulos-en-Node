@@ -3,7 +3,7 @@ import { mostrarProductos } from "./Ej1.js";
 mostrarProductos();
 
 import { agregarProducto } from "./Ej2.js";
-//agregarProducto("Monitor", 120000);
+agregarProducto("Monitor", 120000);
 
 import { mostrarFechaHora } from "./Ej3.js";
 mostrarFechaHora();
@@ -17,7 +17,7 @@ buscarProducto("Mouse");
 
 
 import { generarCSV } from "./Ej6.js";
-//generarCSV();
+generarCSV();
 
 
 import { contador } from "./Ej7.js";
